@@ -1,0 +1,17 @@
+dateModified: 1614716194
+email:
+  fromEmail: chris@onebrightlight.com
+  fromName: 'Rincon Chiro'
+  transportType: craft\mail\transportadapters\Sendmail
+system:
+  edition: solo
+  live: true
+  name: 'Rincon Chiro'
+  schemaVersion: 3.6.4
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
